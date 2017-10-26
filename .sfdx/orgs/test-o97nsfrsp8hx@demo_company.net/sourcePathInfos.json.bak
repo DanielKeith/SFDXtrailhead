@@ -32,14 +32,14 @@
     [
         "C:\\Users\\danie\\OneDrive\\Documents\\Projects\\geolocation\\force-app\\main\\default",
         {
+            "state": "u",
             "sourcePath": "C:\\Users\\danie\\OneDrive\\Documents\\Projects\\geolocation\\force-app\\main\\default",
             "isDirectory": true,
-            "size": 0,
-            "modifiedTime": 1509039371081,
-            "changeTime": 1509039371081,
-            "contentHash": "21561c98dfd0fecdde9706dde46e536247b50732",
             "isMetadataFile": false,
-            "state": "u"
+            "size": 0,
+            "modifiedTime": 1509040550867,
+            "changeTime": 1509040550867,
+            "contentHash": "d8417619f8cb74acd7a6c2b95aaad38138801297"
         }
     ],
     [
@@ -294,14 +294,14 @@
     [
         "C:\\Users\\danie\\OneDrive\\Documents\\Projects\\geolocation\\force-app\\main\\default\\aura\\Accountlocator\\Accountlocator.css",
         {
-            "state": "u",
             "sourcePath": "C:\\Users\\danie\\OneDrive\\Documents\\Projects\\geolocation\\force-app\\main\\default\\aura\\Accountlocator\\Accountlocator.css",
             "isDirectory": false,
+            "size": 92,
+            "modifiedTime": 1509040441140,
+            "changeTime": 1509040441140,
+            "contentHash": "2252c3c8240606770ad85210fb6c35c3f304faa9",
             "isMetadataFile": false,
-            "size": 88,
-            "modifiedTime": 1509040299933,
-            "changeTime": 1509040299933,
-            "contentHash": "91d9d148bcc8b1003d870c153efac1d8124fc24f"
+            "state": "u"
         }
     ],
     [
@@ -341,6 +341,97 @@
             "contentHash": "8b79b016f08440c9b2f7d706a6d21229c854540b",
             "isMetadataFile": false,
             "state": "u"
+        }
+    ],
+    [
+        "C:\\Users\\danie\\OneDrive\\Documents\\Projects\\geolocation\\force-app\\main\\default\\tabs\\Account_Locator.tab-meta.xml",
+        {
+            "state": "u",
+            "sourcePath": "C:\\Users\\danie\\OneDrive\\Documents\\Projects\\geolocation\\force-app\\main\\default\\tabs\\Account_Locator.tab-meta.xml",
+            "isDirectory": false,
+            "isMetadataFile": true,
+            "size": 267,
+            "modifiedTime": 1509040550862,
+            "changeTime": 1509040550862,
+            "contentHash": "df2938a29c5615a1eb10099dfc651a5654fd3684"
+        }
+    ],
+    [
+        "C:\\Users\\danie\\OneDrive\\Documents\\Projects\\geolocation\\force-app\\main\\default\\profiles\\Admin.profile-meta.xml",
+        {
+            "state": "u",
+            "sourcePath": "C:\\Users\\danie\\OneDrive\\Documents\\Projects\\geolocation\\force-app\\main\\default\\profiles\\Admin.profile-meta.xml",
+            "isDirectory": false,
+            "isMetadataFile": true,
+            "size": 17256,
+            "modifiedTime": 1509040550874,
+            "changeTime": 1509040550874,
+            "contentHash": "ffd6d3373d5b87a5161302a5ae3e9f5cf2bcb0b4"
+        }
+    ],
+    [
+        "C:\\Users\\danie\\OneDrive\\Documents\\Projects\\geolocation\\force-app\\main\\default\\profiles\\Custom%3A Support Profile.profile-meta.xml",
+        {
+            "state": "u",
+            "sourcePath": "C:\\Users\\danie\\OneDrive\\Documents\\Projects\\geolocation\\force-app\\main\\default\\profiles\\Custom%3A Support Profile.profile-meta.xml",
+            "isDirectory": false,
+            "isMetadataFile": true,
+            "size": 4797,
+            "modifiedTime": 1509040550877,
+            "changeTime": 1509040550877,
+            "contentHash": "8cf9ff9aa4943adae1d59512fb0d4ca8b2dcfbf9"
+        }
+    ],
+    [
+        "C:\\Users\\danie\\OneDrive\\Documents\\Projects\\geolocation\\force-app\\main\\default\\profiles\\Custom%3A Marketing Profile.profile-meta.xml",
+        {
+            "state": "u",
+            "sourcePath": "C:\\Users\\danie\\OneDrive\\Documents\\Projects\\geolocation\\force-app\\main\\default\\profiles\\Custom%3A Marketing Profile.profile-meta.xml",
+            "isDirectory": false,
+            "isMetadataFile": true,
+            "size": 4461,
+            "modifiedTime": 1509040550881,
+            "changeTime": 1509040550881,
+            "contentHash": "73ad8397e6863de42f0fd812a59698623ba7af38"
+        }
+    ],
+    [
+        "C:\\Users\\danie\\OneDrive\\Documents\\Projects\\geolocation\\force-app\\main\\default\\profiles\\Custom%3A Sales Profile.profile-meta.xml",
+        {
+            "state": "u",
+            "sourcePath": "C:\\Users\\danie\\OneDrive\\Documents\\Projects\\geolocation\\force-app\\main\\default\\profiles\\Custom%3A Sales Profile.profile-meta.xml",
+            "isDirectory": false,
+            "isMetadataFile": true,
+            "size": 4457,
+            "modifiedTime": 1509040550884,
+            "changeTime": 1509040550884,
+            "contentHash": "b07203be5b54f0b386be1f56467864b68e67c390"
+        }
+    ],
+    [
+        "C:\\Users\\danie\\OneDrive\\Documents\\Projects\\geolocation\\force-app\\main\\default\\tabs",
+        {
+            "state": "u",
+            "sourcePath": "C:\\Users\\danie\\OneDrive\\Documents\\Projects\\geolocation\\force-app\\main\\default\\tabs",
+            "isDirectory": true,
+            "isMetadataFile": false,
+            "size": 0,
+            "modifiedTime": 1509040550861,
+            "changeTime": 1509040550861,
+            "contentHash": "e07904c1411fc5069c20a25aedc7d6bdcade7b1f"
+        }
+    ],
+    [
+        "C:\\Users\\danie\\OneDrive\\Documents\\Projects\\geolocation\\force-app\\main\\default\\profiles",
+        {
+            "state": "u",
+            "sourcePath": "C:\\Users\\danie\\OneDrive\\Documents\\Projects\\geolocation\\force-app\\main\\default\\profiles",
+            "isDirectory": true,
+            "isMetadataFile": false,
+            "size": 0,
+            "modifiedTime": 1509040550883,
+            "changeTime": 1509040550883,
+            "contentHash": "9c367b0e719eb8c48c5b0d9cbfb5f580a4bd6717"
         }
     ]
 ]

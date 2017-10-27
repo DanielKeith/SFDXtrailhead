@@ -50,10 +50,10 @@
             "isDirectory": true,
             "isMetadataFile": false,
             "size": 0,
-            "modifiedTime": 1509042467860,
-            "changeTime": 1509042467860,
+            "modifiedTime": 1509126610830,
+            "changeTime": 1509126610830,
             "isWorkspace": false,
-            "contentHash": "cc8ce96f61952cf541c09d4afbcecb60dd77cbfa"
+            "contentHash": "adc78783895292b30e9faccd595e15ab69820369"
         }
     ],
     [
@@ -268,14 +268,14 @@
     [
         "C:\\Users\\danie\\OneDrive\\Documents\\Projects\\geolocation\\force-app\\main\\default\\aura\\Accountlocator\\Accountlocator.cmp",
         {
-            "state": "u",
             "sourcePath": "C:\\Users\\danie\\OneDrive\\Documents\\Projects\\geolocation\\force-app\\main\\default\\aura\\Accountlocator\\Accountlocator.cmp",
             "isDirectory": false,
-            "isMetadataFile": false,
             "size": 206,
             "modifiedTime": 1509042618702,
             "changeTime": 1509042618702,
-            "contentHash": "db049c83f47e1c6fc0c9e4dc7a2b5c77a275bfa1"
+            "contentHash": "db049c83f47e1c6fc0c9e4dc7a2b5c77a275bfa1",
+            "isMetadataFile": false,
+            "state": "u"
         }
     ],
     [
@@ -463,14 +463,14 @@
     [
         "C:\\Users\\danie\\OneDrive\\Documents\\Projects\\geolocation\\force-app\\main\\default\\aura\\AccountList\\AccountList.cmp",
         {
+            "state": "u",
             "sourcePath": "C:\\Users\\danie\\OneDrive\\Documents\\Projects\\geolocation\\force-app\\main\\default\\aura\\AccountList\\AccountList.cmp",
             "isDirectory": false,
-            "size": 339,
-            "modifiedTime": 1509041077204,
-            "changeTime": 1509041077204,
-            "contentHash": "f9bd7187bf9a569cd90222e052f48aa1c9164a5a",
             "isMetadataFile": false,
-            "state": "u"
+            "size": 533,
+            "modifiedTime": 1509126807836,
+            "changeTime": 1509126807836,
+            "contentHash": "986eda37f558c0c88a364da9ecae22df79f0abed"
         }
     ],
     [
@@ -502,14 +502,14 @@
     [
         "C:\\Users\\danie\\OneDrive\\Documents\\Projects\\geolocation\\force-app\\main\\default\\aura\\AccountList\\AccountListController.js",
         {
+            "state": "u",
             "sourcePath": "C:\\Users\\danie\\OneDrive\\Documents\\Projects\\geolocation\\force-app\\main\\default\\aura\\AccountList\\AccountListController.js",
             "isDirectory": false,
-            "size": 255,
-            "modifiedTime": 1509041123151,
-            "changeTime": 1509041123151,
-            "contentHash": "c419962b0a578db6daaa2391f8f9d89e4218c947",
             "isMetadataFile": false,
-            "state": "u"
+            "size": 395,
+            "modifiedTime": 1509126829340,
+            "changeTime": 1509126829340,
+            "contentHash": "57b30f0b559317b4566fd3691c83f3439ecdc073"
         }
     ],
     [
@@ -814,14 +814,14 @@
     [
         "C:\\Users\\danie\\OneDrive\\Documents\\Projects\\geolocation\\force-app\\main\\default\\aura\\AccountMap",
         {
-            "state": "u",
             "sourcePath": "C:\\Users\\danie\\OneDrive\\Documents\\Projects\\geolocation\\force-app\\main\\default\\aura\\AccountMap",
             "isDirectory": true,
-            "isMetadataFile": false,
             "size": 0,
             "modifiedTime": 1509042467868,
             "changeTime": 1509042482968,
-            "contentHash": "a5a66581a4cb3394b3727c3a6a9ae0440bec88e4"
+            "contentHash": "a5a66581a4cb3394b3727c3a6a9ae0440bec88e4",
+            "isMetadataFile": false,
+            "state": "u"
         }
     ],
     [
@@ -831,36 +831,36 @@
             "sourcePath": "C:\\Users\\danie\\OneDrive\\Documents\\Projects\\geolocation\\force-app\\main\\default\\aura\\AccountMap\\AccountMap.cmp",
             "isDirectory": false,
             "isMetadataFile": false,
-            "size": 260,
-            "modifiedTime": 1509042493851,
-            "changeTime": 1509042493851,
-            "contentHash": "942ff45728b690d7ff605de9908ff0821a651669"
+            "size": 330,
+            "modifiedTime": 1509126860575,
+            "changeTime": 1509126860575,
+            "contentHash": "6ac73134962dc9bd0e7ce3d500737d5d428e4a3b"
         }
     ],
     [
         "C:\\Users\\danie\\OneDrive\\Documents\\Projects\\geolocation\\force-app\\main\\default\\aura\\AccountMap\\AccountMap.cmp-meta.xml",
         {
-            "state": "u",
             "sourcePath": "C:\\Users\\danie\\OneDrive\\Documents\\Projects\\geolocation\\force-app\\main\\default\\aura\\AccountMap\\AccountMap.cmp-meta.xml",
             "isDirectory": false,
-            "isMetadataFile": true,
             "size": 242,
             "modifiedTime": 1509042467864,
             "changeTime": 1509042467864,
-            "contentHash": "3a2d6938d275475fd4ed3800a5fe9151c0677f15"
+            "contentHash": "3a2d6938d275475fd4ed3800a5fe9151c0677f15",
+            "isMetadataFile": true,
+            "state": "u"
         }
     ],
     [
         "C:\\Users\\danie\\OneDrive\\Documents\\Projects\\geolocation\\force-app\\main\\default\\aura\\AccountMap\\AccountMap.css",
         {
-            "state": "u",
             "sourcePath": "C:\\Users\\danie\\OneDrive\\Documents\\Projects\\geolocation\\force-app\\main\\default\\aura\\AccountMap\\AccountMap.css",
             "isDirectory": false,
-            "isMetadataFile": false,
             "size": 42,
             "modifiedTime": 1509042531180,
             "changeTime": 1509042531180,
-            "contentHash": "b5c7a9773c9f99067d3777ecad9e5dd88e3b717c"
+            "contentHash": "b5c7a9773c9f99067d3777ecad9e5dd88e3b717c",
+            "isMetadataFile": false,
+            "state": "u"
         }
     ],
     [
@@ -870,36 +870,75 @@
             "sourcePath": "C:\\Users\\danie\\OneDrive\\Documents\\Projects\\geolocation\\force-app\\main\\default\\aura\\AccountMap\\AccountMapController.js",
             "isDirectory": false,
             "isMetadataFile": false,
-            "size": 379,
-            "modifiedTime": 1509042513262,
-            "changeTime": 1509042513262,
-            "contentHash": "03c2ff940a77f739be3be834b08d71acb5ef1c83"
+            "size": 833,
+            "modifiedTime": 1509126888340,
+            "changeTime": 1509126888340,
+            "contentHash": "66b62a139b9cca8204da084c582323079ab70ffe"
         }
     ],
     [
         "C:\\Users\\danie\\OneDrive\\Documents\\Projects\\geolocation\\force-app\\main\\default\\aura\\AccountMap\\AccountMapHelper.js",
         {
-            "state": "u",
             "sourcePath": "C:\\Users\\danie\\OneDrive\\Documents\\Projects\\geolocation\\force-app\\main\\default\\aura\\AccountMap\\AccountMapHelper.js",
             "isDirectory": false,
-            "isMetadataFile": false,
             "size": 45,
             "modifiedTime": 1509042467867,
             "changeTime": 1509042467867,
-            "contentHash": "fa35ebecd73c127729bf311a95b613f711a6f10b"
+            "contentHash": "fa35ebecd73c127729bf311a95b613f711a6f10b",
+            "isMetadataFile": false,
+            "state": "u"
         }
     ],
     [
         "C:\\Users\\danie\\OneDrive\\Documents\\Projects\\geolocation\\force-app\\main\\default\\aura\\AccountMap\\AccountMapRenderer.js",
         {
-            "state": "u",
             "sourcePath": "C:\\Users\\danie\\OneDrive\\Documents\\Projects\\geolocation\\force-app\\main\\default\\aura\\AccountMap\\AccountMapRenderer.js",
             "isDirectory": false,
-            "isMetadataFile": false,
             "size": 50,
             "modifiedTime": 1509042467868,
             "changeTime": 1509042467868,
-            "contentHash": "8b79b016f08440c9b2f7d706a6d21229c854540b"
+            "contentHash": "8b79b016f08440c9b2f7d706a6d21229c854540b",
+            "isMetadataFile": false,
+            "state": "u"
+        }
+    ],
+    [
+        "C:\\Users\\danie\\OneDrive\\Documents\\Projects\\geolocation\\force-app\\main\\default\\aura\\AccountsLoaded",
+        {
+            "state": "u",
+            "sourcePath": "C:\\Users\\danie\\OneDrive\\Documents\\Projects\\geolocation\\force-app\\main\\default\\aura\\AccountsLoaded",
+            "isDirectory": true,
+            "isMetadataFile": false,
+            "size": 0,
+            "modifiedTime": 1509126610832,
+            "changeTime": 1509126624611,
+            "contentHash": "4bba9f5fa252e1cd21062d694a0425e2246f27ae"
+        }
+    ],
+    [
+        "C:\\Users\\danie\\OneDrive\\Documents\\Projects\\geolocation\\force-app\\main\\default\\aura\\AccountsLoaded\\AccountsLoaded.evt",
+        {
+            "state": "u",
+            "sourcePath": "C:\\Users\\danie\\OneDrive\\Documents\\Projects\\geolocation\\force-app\\main\\default\\aura\\AccountsLoaded\\AccountsLoaded.evt",
+            "isDirectory": false,
+            "isMetadataFile": false,
+            "size": 100,
+            "modifiedTime": 1509126636590,
+            "changeTime": 1509126636590,
+            "contentHash": "8f41527bf754bff336a0a867da6cdd35659054b4"
+        }
+    ],
+    [
+        "C:\\Users\\danie\\OneDrive\\Documents\\Projects\\geolocation\\force-app\\main\\default\\aura\\AccountsLoaded\\AccountsLoaded.evt-meta.xml",
+        {
+            "state": "u",
+            "sourcePath": "C:\\Users\\danie\\OneDrive\\Documents\\Projects\\geolocation\\force-app\\main\\default\\aura\\AccountsLoaded\\AccountsLoaded.evt-meta.xml",
+            "isDirectory": false,
+            "isMetadataFile": true,
+            "size": 242,
+            "modifiedTime": 1509126610835,
+            "changeTime": 1509126610835,
+            "contentHash": "b69047ac083bd9c2a693a13cb3f5f7c31edcd663"
         }
     ]
 ]
